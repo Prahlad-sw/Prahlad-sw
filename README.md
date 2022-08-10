@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prahlad-sw
-- 👀 I’m interested in women ;-)
+- 😎 I enjoy problem solving
 - 🌱 I’m currently learning C.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prahlad7320@gmail.com
