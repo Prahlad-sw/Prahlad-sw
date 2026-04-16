@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prahlad!
-- 😎 I enjoy problem solving usign C++ , python & MySQL.
+- 😎 I build ideas usign Java,  Spring Boot, C++, python & MySQL.
 - 🌱 Love to innovate with the power of Dev & machine learning.
 - 💞️ I’m looking to collaborate | Work on an intersitng project.
 - 📌 Some of my other project : https://drive.google.com/drive/folders/1Scvr8TnTbQAgwAUt-thtSS5NGLKc1dkr?usp=drive_link
